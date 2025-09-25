@@ -9,11 +9,7 @@
     - **Customer Contacts**
 - Network Penetration Testing Assessment Summary
     - Network Summary
-    - Summary of Findings
-- Executive Summary
-    - Executive Summary
-    - Approach
-    - **Scope**
+- Executive Summary    - **Scope**
 ---
 ### -  discovered a host and scanned ports via nmap
 **Host & Service Discovery**
