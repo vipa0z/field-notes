@@ -7,7 +7,7 @@ This repository contains my structured notes and walkthroughs designed to suppor
 
 > ⚠️ **Note:** This guide is **not definitive**. You should always build your **own methodology and notes**, tailored to your learning style and lab environments. Use this repository only as a **reference** or starting point.
 
- [magdy3660.gitbook.io/vipa0z-manual/]( magdy3660.gitbook.io/vipa0z-manual/ )
+ [magdy3660.gitbook.io/vipa0z-manual/](https://magdy3660.gitbook.io/field-manualx/)
 ---
 ## Topics Covered
 
