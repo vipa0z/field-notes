@@ -1,0 +1,7 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Screenshots",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "../Screenshots"
+}

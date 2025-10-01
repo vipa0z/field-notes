@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "e382c3711d9548cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01888d66afbd71d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3919a5fffd7399c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "review - notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "review - notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a48390ead510336",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32be45d1501f24e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8198a822b5f29208",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6fb81e8990ca6f0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kerbrute",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a102d6797170f863",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 590.5
+  },
+  "right": {
+    "id": "156d3a7231db0075",
+    "type": "split",
+    "children": [
+      {
+        "id": "016f5000e3772e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe15fe11e23f0ac7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. vulnerability analysis/4. Active Directory/2. Lateral Movement/MSSQL TRUSTED LINK AND XPCMD add.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MSSQL TRUSTED LINK AND XPCMD add"
+            }
+          },
+          {
+            "id": "09f5262dc2890abd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Attacks/Attacking windows environments/Active Directory Attacks/DCSync.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DCSync"
+            }
+          },
+          {
+            "id": "5f60d18dad86f1ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fe55c82cb620eb87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Attacks/Attacking windows environments/Active Directory Attacks/DCSync.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DCSync"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "gnome-terminal-loader:Gnome Terminal": false,
+      "gnome-terminal-loader:main.py (Gnome Terminal)": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "3919a5fffd7399c5",
+  "lastOpenFiles": [
+    "README.md",
+    "2. vulnerability assesment/2. Active Directory Enumeration/4. ACLS blunthound, GPOs/1. DACL abuse mindmap..png",
+    "2. vulnerability assesment/3.  Active Directory attacks/1. Credentials (spraying , kerberoasting, poisoning)/2. Password Spraying/1. spraying from linux.md",
+    "2. vulnerability assesment/3.  Active Directory attacks/1. Credentials (spraying , kerberoasting, poisoning)/2. Password Spraying/0. spraying methodoligy.md",
+    "7. Methodologies and checklists/internal/Active Directory/3. Active directory.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/linux capabilities.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/1. linux privilege escalation manual checks v2.0.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/PwnKit UBUNTU FOCAL 20 , CVE 2021-4034.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/Weak NFS Permissions.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/5. Python module hijacking.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/2. sudo vulnerabilities CVEs.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/sudo 2025 chwoot.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/1. kernel exploits (dirty pipe,CVE-2021-22555,.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/ADM Group.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/1. group permissions Concepts (LXD, DOCKER, ADM).md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/Docker group.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/5. environtment (wildcard, path)/path and wildcard privilege escalation.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/environtment (wildcard, path)/wildcard abuse.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/4. Scheduled Tasks  abuse/cronjob abuse.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/4. Scheduled Tasks  abuse/logrotate exploit.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/5. environtment (wildcard, path)",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/4. Scheduled Tasks  abuse",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)/Suid & sgid binaries.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)/GTFOBINS binaries.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)/special permissions (sudo, suid ,guid).md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/kubernetes-intro.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/LXd group.md",
+    "Screenshots/Screenshotsn/Pasted image 20250110142632.png.md",
+    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/Escalation Methodology 1.md",
+    "7. Methodologies and checklists/internal/privesc/1. linux privilege escalation",
+    "7. Methodologies and checklists/internal/Active Directory",
+    "7. Methodologies and checklists/internal/privesc",
+    "Screenshots/Pasted image 20250930224649.png",
+    "Screenshots/Pasted image 20250930221525.png",
+    "Screenshots/Pasted image 20250930214822.png",
+    "Screenshots/Pasted image 20250930214730.png",
+    "Screenshots/Pasted image 20250930214713.png",
+    "Screenshots/Pasted image 20250930214701.png",
+    "Screenshots/Pasted image 20250930214117.png",
+    "Screenshots/Pasted image 20250930211437.png",
+    "Screenshots/Pasted image 20250930211355.png",
+    "2. vulnerability assesment/2. Active Directory Enumeration/6. enumerating domain trusts/5 domain trust attacks",
+    "review",
+    "6. post-exploitation/3.  FIle transfers/uploads",
+    "CTF submissions/Untitled.canvas",
+    "Exploitation/brute forcing passwords-and-dictionary attacks/Lin.canvas",
+    "Exploitation-or-Attacks/password_attacks/Lin.canvas",
+    "unordered Modules/password_attacks/Lin.canvas"
+  ]
+}

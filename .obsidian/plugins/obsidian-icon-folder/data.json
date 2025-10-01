@@ -1,0 +1,74 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabLinux",
+      "🕷",
+      "LiNetwork",
+      "FabWindows",
+      "🏃"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "enumeration/Windows Server versions and criticals": "FabWindows",
+  "unordered Modules/Attacking windows environments": {
+    "iconName": "FabWindows",
+    "iconColor": "#be0e0e"
+  },
+  "unordered Modules/application attacks": "LiGithub",
+  "unordered Modules/network services": "LiNetwork",
+  "unordered Modules/password_attacks": "💣",
+  "unordered Modules/web attacks": "FabWikipediaW",
+  "2. vulnerability assesment/1. web": "🕷",
+  "2. vulnerability assesment/2. Active Directory Enumeration": {
+    "iconName": "FabWindows",
+    "iconColor": "#37a4c8"
+  },
+  "2. vulnerability assesment/3.  Active Directory attacks": {
+    "iconName": "FabWindows",
+    "iconColor": "#db5c5c"
+  },
+  "7. Methodologies and checklists/internal/Active Directory/3. Active directory.md": {
+    "iconName": "FabWindows",
+    "iconColor": "#3cc0ec"
+  },
+  "7. Methodologies and checklists/internal/Active Directory/Active Directory  Attack NameS.md": "FabWindows",
+  "7. Methodologies and checklists/internal/privesc/1. linux privilege escalation.md": {
+    "iconName": "FabLinux",
+    "iconColor": "#787878"
+  },
+  "7. Methodologies and checklists/internal/privesc/2.  windows privesc.md": "FabWindows",
+  "6. post-exploitation/4. privilege escalation/Linux privilege escalation": {
+    "iconName": "FabLinux",
+    "iconColor": "#a3a3a3"
+  },
+  "6. post-exploitation/4. privilege escalation/Windows Privilege Escalation": {
+    "iconName": "FabWindows",
+    "iconColor": "#35a4c0"
+  },
+  "6. post-exploitation/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/1. linux privilege escalation manual checks v2.0.md": "FabLinux"
+}

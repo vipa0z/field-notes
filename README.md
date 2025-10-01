@@ -1,14 +1,12 @@
-<div align="center">
-  <img width="214" height="214" alt="image" src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" />
-</div>
-
 ## Overview
 
-This repository contains my structured notes and walkthroughs designed to support preparation for the **Certification exams**, as well as Pentests and CTF challenges. It documents attack chains from external reconnaissance to internal network/domain compromise and post-exploitation.  
+This repository contains my structured notes and walkthroughs designed to support preparation for the **Certification exams**, as well as Pentests and CTF challenges. It documents attack chains from external reconnaissance to internal network/domain compromise and post-exploitation.  view at 
+ [vipa0z.gitbook.io/vipa0z-manual/](https://magdy3660.gitbook.io/field-manualx/)
 
 > ⚠️ **Note:** This guide is **not definitive**. You should always build your **own methodology and notes**, tailored to your learning style and lab environments. Use this repository only as a **reference** or starting point.
 
- [magdy3660.gitbook.io/vipa0z-manual/](https://magdy3660.gitbook.io/field-manualx/)
+
+
 ---
 ## Topics Covered
 
@@ -44,6 +42,8 @@ The notes include guidance on:
   * Password Mutations
   * Remote Password Attacks
   * Windows Password Attacks
+  * pass the ticket (ptt)
+  * pass the cert (ptc)
   * Linux Password Attacks
   * Cracking Passwords
 
@@ -67,9 +67,13 @@ The notes include guidance on:
   * ASREPRoasting
   * Trust Relationships
 
+**Privilege Escalation**
+- Windows Privilege Escalation
+- Linux Privilege Escalation
 * **Login Brute Forcing**
 
   * Hydra
+  * medusa
 
 * **SQLMap**
 
