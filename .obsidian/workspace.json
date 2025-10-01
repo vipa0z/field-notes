@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "review - notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "review - notes"
+              "title": "README"
             }
           }
         ]
@@ -175,6 +175,7 @@
   },
   "active": "3919a5fffd7399c5",
   "lastOpenFiles": [
+    "review - notes.md",
     "README.md",
     "2. vulnerability assesment/2. Active Directory Enumeration/4. ACLS blunthound, GPOs/1. DACL abuse mindmap..png",
     "2. vulnerability assesment/3.  Active Directory attacks/1. Credentials (spraying , kerberoasting, poisoning)/2. Password Spraying/1. spraying from linux.md",
@@ -205,7 +206,6 @@
     "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/kubernetes-intro.md",
     "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/LXd group.md",
     "Screenshots/Screenshotsn/Pasted image 20250110142632.png.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/Escalation Methodology 1.md",
     "7. Methodologies and checklists/internal/privesc/1. linux privilege escalation",
     "7. Methodologies and checklists/internal/Active Directory",
     "7. Methodologies and checklists/internal/privesc",
