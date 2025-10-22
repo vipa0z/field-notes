@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e01888d66afbd71d",
+        "id": "ef83c6d77c5e93ba",
         "type": "tabs",
         "children": [
           {
-            "id": "3919a5fffd7399c5",
+            "id": "697ec261f2dde54b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. vulnerability assesment/hash formats - useful - hashcat modes.md",
+                "file": "2. vulnerability assesment/1. web/2. custom webApps/1. recon/1.  DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hash formats - useful - hashcat modes"
+              "title": "1.  DNS"
+            }
+          },
+          {
+            "id": "2b63c855f88adea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "report writing/sysreptor tricks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sysreptor tricks"
+            }
+          },
+          {
+            "id": "94acde47bacafa9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "report writing/sysreptor tricks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sysreptor tricks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,11 +82,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kerbrute",
+                "query": "figcapt",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -74,11 +103,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 590.5
+    "width": 317.51103591918945
   },
   "right": {
     "id": "156d3a7231db0075",
@@ -170,57 +200,58 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "gnome-terminal-loader:Gnome Terminal": false,
       "gnome-terminal-loader:main.py (Gnome Terminal)": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "3919a5fffd7399c5",
+  "active": "94acde47bacafa9d",
   "lastOpenFiles": [
+    "2. vulnerability assesment/3.  Active Directory attacks/5. Trust attacks/1. Attacking Parent  - Child - Trusts (golden ticket via sidhistory).md",
+    "2. vulnerability assesment/3. network services/NFS - 2049.md",
+    "2. vulnerability assesment/3. network services/5. smb (445, 139).md",
+    "report writing/sysreptor tricks.md",
+    "Screenshots/Pasted image 20251021223005.png",
+    "Screenshots/Pasted image 20251021013115.png",
+    "Screenshots/Pasted image 20251021005049.png",
+    "report writing/Reporting triggers.md",
+    "4. privilege escalation/Windows Privilege Escalation/system related/3. kernel exploits and windows CVEs/Privilege escalation in legacy windows servers.md",
+    "2. vulnerability assesment/2. Active Directory Enumeration/evasion tactics/living of land enum.md",
+    "2. vulnerability assesment/2. Active Directory Enumeration/4. evasive enumeration with lol/living of land.md",
+    "2. vulnerability assesment/2. Active Directory Enumeration/evasion tactics/lay of land enumeration 2.md",
+    "findings template.md",
+    "2. vulnerability assesment/3.  Active Directory attacks/1. Credentials (spraying , kerberoasting, poisoning)/1. LLMNR  NBT-NS Poisioning.md",
+    "notes ptt lin.md",
     "README.md",
-    "review - notes.md",
-    "2. vulnerability assesment/2. Active Directory Enumeration/4. ACLS blunthound, GPOs/1. DACL abuse mindmap..png",
-    "2. vulnerability assesment/3.  Active Directory attacks/1. Credentials (spraying , kerberoasting, poisoning)/2. Password Spraying/1. spraying from linux.md",
-    "2. vulnerability assesment/3.  Active Directory attacks/1. Credentials (spraying , kerberoasting, poisoning)/2. Password Spraying/0. spraying methodoligy.md",
-    "7. Methodologies and checklists/internal/Active Directory/3. Active directory.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/linux capabilities.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/1. linux privilege escalation manual checks v2.0.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/PwnKit UBUNTU FOCAL 20 , CVE 2021-4034.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/Weak NFS Permissions.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/5. Python module hijacking.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/2. sudo vulnerabilities CVEs.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/sudo 2025 chwoot.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules/1. kernel exploits (dirty pipe,CVE-2021-22555,.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/ADM Group.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/vulnerable OS, packages, services, python modules",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/1. group permissions Concepts (LXD, DOCKER, ADM).md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/Docker group.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/5. environtment (wildcard, path)/path and wildcard privilege escalation.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/environtment (wildcard, path)/wildcard abuse.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/4. Scheduled Tasks  abuse/cronjob abuse.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/4. Scheduled Tasks  abuse/logrotate exploit.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/5. environtment (wildcard, path)",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/4. Scheduled Tasks  abuse",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)/Suid & sgid binaries.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)/GTFOBINS binaries.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)/special permissions (sudo, suid ,guid).md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/3. special binary permissions (GTFO, sudo, suid ,guid)",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/kubernetes-intro.md",
-    "6. post-exploitation/4. privilege escalation/Linux privilege escalation/2. Special groups/LXd group.md",
-    "Screenshots/Screenshotsn/Pasted image 20250110142632.png.md",
-    "7. Methodologies and checklists/internal/privesc/1. linux privilege escalation",
-    "7. Methodologies and checklists/internal/Active Directory",
-    "7. Methodologies and checklists/internal/privesc",
-    "Screenshots/Pasted image 20250930224649.png",
-    "Screenshots/Pasted image 20250930221525.png",
-    "Screenshots/Pasted image 20250930214822.png",
-    "Screenshots/Pasted image 20250930214730.png",
-    "Screenshots/Pasted image 20250930214713.png",
-    "Screenshots/Pasted image 20250930214701.png",
-    "Screenshots/Pasted image 20250930214117.png",
-    "Screenshots/Pasted image 20250930211437.png",
-    "Screenshots/Pasted image 20250930211355.png",
-    "2. vulnerability assesment/2. Active Directory Enumeration/6. enumerating domain trusts/5 domain trust attacks",
-    "review",
-    "6. post-exploitation/3.  FIle transfers/uploads",
+    "review - notes TODO 5-10-2025.md",
+    "Untitled.base",
+    "WORDLISTS.md",
+    "4. privilege escalation/Windows Privilege Escalation/2. other priv-esc techniques LNK, wireshark, services/files to capture hashes and  SCF files.md",
+    "6. post-exploitation/pivoting redirection and port forwarding/1.  tunneling with Ligolo-ng.md",
+    "Screenshots/Pasted image 20251020162251.png",
+    "6. post-exploitation/3.  FIle transfers/windows/1 download files to  windows (srvr to victim).md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/3. log poisoning.md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/3. abusing wrapper functions to read code and rce.md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/3. Acessing uploaded files with lfi.md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/3.  table of functions allowed to  read & execute.md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/3 Remote file inclusion RFI to RCE.md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/2. important server files.md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/2. finding source code files.md",
+    "2. vulnerability assesment/1. web/2. custom webApps/2. LFI/2. filter bypasses.md",
+    "native tools",
+    "Screenshots/Pasted image 20251009165414.png",
+    "Screenshots/Pasted image 20251009154648.png",
+    "Screenshots/Pasted image 20251009154541.png",
+    "Screenshots/Pasted image 20251009154540.png",
+    "Screenshots/Pasted image 20251009135529.png",
+    "2. vulnerability assesment/3.  Active Directory attacks/6. Lateral Movement (pass tickets&Hashes)/Pass the Hash",
+    "2. vulnerability assesment/3.  Active Directory attacks/6. Lateral Movement (pass tickets&Hashes)/pass the ticket and Requesting TGTs",
+    "Screenshots/Pasted image 20251007184220.png",
+    "4. privilege escalation/Linux privilege escalation/weak file permissions",
+    "7. persistence",
+    "native tools/linux-tools-commands",
+    "6. post-exploitation/password cracking",
+    "6. post-exploitation/3.  FIle transfers/linux",
+    "6. post-exploitation/3.  FIle transfers/windows",
     "CTF submissions/Untitled.canvas",
     "Exploitation/brute forcing passwords-and-dictionary attacks/Lin.canvas",
     "Exploitation-or-Attacks/password_attacks/Lin.canvas",

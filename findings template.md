@@ -1,4 +1,6 @@
-## Report
+
+Help me Draft a finding for that goes into my penetration test report, use professional but not overly formal tone, the finding was: INSERT_FINDING, i will provide you with the finding information, your task is to help me complete whichever is missing
+## Finding title:
 ### Uncecessary/Unused website:
 CVSS: 
 CWE:

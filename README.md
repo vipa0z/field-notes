@@ -12,7 +12,6 @@ This repository contains my structured notes and walkthroughs designed to suppor
 
 The notes include guidance on: 
 
-
 * **Nmap**
 
   * Port Scanning
@@ -77,9 +76,3 @@ The notes include guidance on:
 
 * **SQLMap**
 
-* **Useful Resources**
-
----
-## Disclaimer
-
-This repository is strictly for **educational purposes**. Unauthorized use of these techniques is illegal and unethical. Test only in labs or systems you have explicit permission to access.
