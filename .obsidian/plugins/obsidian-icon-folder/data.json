@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAArrowDown",
       "LiAlignCenter",
       "🧑‍🤝‍🧑",
       "FabLinux",
-      "🕷",
-      "LiNetwork"
+      "🕷"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,43 +43,33 @@
   "unordered Modules/network services": "LiNetwork",
   "unordered Modules/password_attacks": "💣",
   "unordered Modules/web attacks": "FabWikipediaW",
-  "2. vulnerability assesment/1. web": "🕷",
-  "2. vulnerability assesment/2. Active Directory Enumeration": {
-    "iconName": "FabWindows",
-    "iconColor": "#37a4c8"
-  },
-  "2. vulnerability assesment/3.  Active Directory attacks": {
-    "iconName": "FabWindows",
-    "iconColor": "#db5c5c"
-  },
-  "3. intitial access (shells)/1. linux tty shells.md": "FabLinux",
-  "3. intitial access (shells)/2. windows conpty.md": "FabWindows",
-  "6. post-exploitation/3.  FIle transfers/linux/1.  download files  to  linux  (srvr to victim).md": "FabLinux",
-  "6. post-exploitation/3.  FIle transfers/windows": "FabWindows",
-  "6. post-exploitation/3.  FIle transfers/linux": "FabLinux",
-  "6. post-exploitation/3.  FIle transfers/4. file transfers with lolbas & GTFObins.md": "🧑‍🤝‍🧑",
-  "4. privilege escalation/Linux privilege escalation": {
+  "3 - Netsec &  AD/3. intitial access (shells)/1. linux tty shells.md": "FabLinux",
+  "3 - Netsec &  AD/3. intitial access (shells)/2. windows conpty.md": "FabWindows",
+  "3 - Netsec &  AD/4. privilege escalation/Linux privilege escalation": {
     "iconName": "FabLinux",
     "iconColor": "#a3a3a3"
   },
-  "4. privilege escalation/Windows Privilege Escalation": {
+  "3 - Netsec &  AD/4. privilege escalation/Windows Privilege Escalation": {
     "iconName": "FabWindows",
     "iconColor": "#35a4c0"
   },
-  "4. privilege escalation/Linux privilege escalation/1.  manual enumeration/1. linux privilege escalation manual checks v2.0.md": "FabLinux",
-  "8. Methodologies and checklists/internal/Active Directory/3. Active directory.md": {
+  "3 - Netsec &  AD/4. privilege escalation/3.  FIle transfers/4. file transfers with lolbas & GTFObins.md": "🧑‍🤝‍🧑",
+  "3 - Netsec &  AD/4. privilege escalation/3.  FIle transfers/linux": "FabLinux",
+  "3 - Netsec &  AD/4. privilege escalation/3.  FIle transfers/windows": "FabWindows",
+  "3 - Netsec &  AD/4. privilege escalation/3.  FIle transfers/linux/1.  download files  to  linux  (srvr to victim).md": "FabLinux",
+  "3 - Netsec &  AD/4. privilege escalation/Linux privilege escalation/1.  manual enumeration/1. linux privilege escalation manual checks v2.0.md": "FabLinux",
+  "3 - Netsec &  AD/3. Active Directory Enumeration": {
+    "iconName": "FabWindows",
+    "iconColor": "#37a4c8"
+  },
+  "3 - Netsec &  AD/internal/Active Directory/3. Active directory.md": {
     "iconName": "FabWindows",
     "iconColor": "#3cc0ec"
   },
-  "8. Methodologies and checklists/internal/Active Directory/Active Directory  Attack NameS.md": "FabWindows",
-  "8. Methodologies and checklists/internal/privesc + initial access/1. linux privilege escalation.md": {
+  "3 - Netsec &  AD/internal/Active Directory/Active Directory  Attack NameS.md": "FabWindows",
+  "3 - Netsec &  AD/internal/privesc + initial access/1. linux privilege escalation.md": {
     "iconName": "FabLinux",
     "iconColor": "#787878"
   },
-  "8. Methodologies and checklists/internal/privesc + initial access/2.  windows privesc.md": "FabWindows",
-  "2. vulnerability assesment/3.  Active Directory attacks/6. Lateral Movement (pass tickets&Hashes)/pass the ticket and Requesting TGTs/pass the ticket  in linux & privEsc in domain joined linux.md": "FabLinux",
-  "2. vulnerability assesment/3.  Active Directory attacks/6. Lateral Movement (pass tickets&Hashes)/pass the ticket and Requesting TGTs/requesting TGTs with NTLM from linux.md": "FabLinux",
-  "2. vulnerability assesment/3.  Active Directory attacks/6. Lateral Movement (pass tickets&Hashes)/pass the ticket and Requesting TGTs/4. PowerShell Remoting with pass the ticket ptt-remoting.md": "FabWindows",
-  "2. vulnerability assesment/3.  Active Directory attacks/6. Lateral Movement (pass tickets&Hashes)/pass the ticket and Requesting TGTs/2. Pass-the-Ticket in WIndows.md": "FabWindows",
-  "2. vulnerability assesment/3.  Active Directory attacks/6. Lateral Movement (pass tickets&Hashes)/pass the ticket and Requesting TGTs/3. Pass the Keys to forge TGTs.md": "LiAlignCenter"
+  "3 - Netsec &  AD/internal/privesc + initial access/2.  windows privesc.md": "FabWindows"
 }

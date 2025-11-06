@@ -31,5 +31,5 @@ output command  (RED)
 ```
 ## add small captions anywhere (fig captions):
 ```
-<figcaption style="font-style: italic;  font-size:11pxKerberoasting - Listing SPN Accounts</figcaption>
+<figcaption style="font-style: italic;">fisting SPN Accounts</figcaption>
 ```

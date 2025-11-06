@@ -171,7 +171,7 @@ ssh-keygen
 mysql -u root -p
 tmux new -s barry
 cd ~
-sshpass -p 'i_l0ve_s3cur1ty!' ssh barry_adm@dmz1.inlanefreight.local
+sshpass -p 'i_l0ve_s3cur1ty!' ssh barry_adm@dmz1.ad.someorg.local
 history -d 6
 history
 history -d 12
@@ -206,7 +206,7 @@ history
 
 # barry
 ```
-sshpass -p 'i_l0ve_s3cur1ty!' ssh barry_adm@dmz1.inlanefreight.local
+sshpass -p 'i_l0ve_s3cur1ty!' ssh barry_adm@dmz1.ad.someorg.local
 ```
 
 ## tomcat
@@ -219,7 +219,7 @@ sshpass -p 'i_l0ve_s3cur1ty!' ssh barry_adm@dmz1.inlanefreight.local
 
 | ID | user_login | user_pass                          | user_nicename | user_email                | user_url                | user_registered     | user_activation_key | user_status | display_name |
 
-|  1 | admin      | $P$B69Cem80AlqDfOkt6tesbMo4sfW3ZR1 | admin         | admin@inlanefreight.local | http://10.129.2.24/blog | 2020-09-02 05:24:52 |                     |           0 | admin        |
+|  1 | admin      | $P$B69Cem80AlqDfOkt6tesbMo4sfW3ZR1 | admin         | admin@ad.someorg.local | http://10.129.2.24/blog | 2020-09-02 05:24:52 |                     |           0 | admin        |
 +----+------------+------------------------------------+---------------+---------------------------+-------------------------+---------------------+---------------------+-
 ```
 
